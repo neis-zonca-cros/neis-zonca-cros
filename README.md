@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Première application mobile IOS disponible: Heuremedic<br>🔭 Site de data visualisation en React JS / API OSM / Tailwind: https://la-visible-invisibilite.netlify.app/<br>🌙 Portfolio en React-JS / Tailwind : https://portfolio-neis-zonca-cros.netlify.app/<br>🥁 En cours d'écriture d'une API Node JS / MongoDB / Mongoose / Express<br>🫎 Passionnée d'architecture logicielle et de code artisanal<br>🌱 Apprenante Développeuse Full Stack à Ada Tech School Lyon<br>💬 En reconversion après 10 années dans le secteur médico social 
+🤝 Première application mobile IOS disponible: Heuremedic<br>🔭 Site de data visualisation en React JS / API OSM / Tailwind: https://la-visible-invisibilite.netlify.app/<br>🌙 Portfolio en React-TS / Tailwind / NEXT : https://nzcdeveloppement.fr/<br>🥁 En cours d'écriture d'une API Node JS / MongoDB / Mongoose / Express<br>🫎 Passionnée d'architecture logicielle et de code artisanal<br>🌱 Apprenante Développeuse Full Stack à Ada Tech School Lyon<br>💬 En reconversion après 10 années dans le secteur médico social 
 
 
 ## 🌐 Socials:
